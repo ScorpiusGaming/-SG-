@@ -48,11 +48,11 @@ work for your custom job, remake them to include your job as well.
 ---------------------------------------------------------------------------]]
 DarkRP.disabledDefaults["jobs"] = {
 	["chief"]     = true,
-	["citizen"]   = true,
+	["citizen"]   = false,
 	["cook"]      = true, --Hungermod only
 	["cp"]        = true,
 	["gangster"]  = true,
-	["gundealer"] = true,
+	["gundealer"] = false,
 	["hobo"]      = true,
 	["mayor"]     = true,
 	["medic"]     = true,
